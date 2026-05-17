@@ -1,5 +1,5 @@
 # How To Secure A Linux Server
-
+**[中文说明](README_zh.md)**
 An evolving how-to guide for securing a Linux server that, hopefully, also teaches you a little about security and why it matters.
 
 [![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](#license)
